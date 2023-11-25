@@ -23,7 +23,7 @@
     <!-- BREADCRUMB AREA END -->
 
     <!-- TEAM AREA START (Team - 3) -->
-    <div class="ltn__team-area pt-110--- pb-90">
+    {{-- <div class="ltn__team-area pt-110--- pb-90">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-lg-4 col-sm-6">
@@ -136,7 +136,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- TEAM AREA END -->
 
     <!-- CALL TO ACTION START (call-to-action-6) -->
@@ -151,7 +151,7 @@
                             <p>We can help you realize your dream of a new home</p>
                         </div>
                         <div class="btn-wrapper">
-                            <a class="btn btn-effect-3 btn-white" href="contact.html">Explore Properties <i
+                            <a class="btn btn-effect-3 btn-white" href="{{ url('properties') }}">Explore Properties <i
                                     class="icon-next"></i></a>
                         </div>
                     </div>

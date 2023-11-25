@@ -10,7 +10,7 @@
                         <h1 class="page-title">404 Page</h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
-                                <li><a href="index-2.html"><span class="ltn__secondary-color"><i
+                                <li><a href="{{ url('/') }}"><span class="ltn__secondary-color"><i
                                                 class="fas fa-home"></i></span> Home</a></li>
                                 <li>404</li>
                             </ul>
@@ -36,7 +36,7 @@
                         <!-- <h3>Oops! Looks like something going rong</h3> -->
                         <p>Oops! The page you are looking for does not exist. It might have been moved or deleted.</p>
                         <div class="btn-wrapper">
-                            <a href="index-2.html" class="btn btn-transparent"><i class="fas fa-long-arrow-alt-left"></i>
+                            <a href="{{ url('/') }}" class="btn btn-transparent"><i class="fas fa-long-arrow-alt-left"></i>
                                 BACK TO HOME</a>
                         </div>
                     </div>
@@ -58,7 +58,7 @@
                             <p>We can help you realize your dream of a new home</p>
                         </div>
                         <div class="btn-wrapper">
-                            <a class="btn btn-effect-3 btn-white" href="contact.html">Explore Properties <i
+                            <a class="btn btn-effect-3 btn-white" href="{{ url('properties') }}">Explore Properties <i
                                     class="icon-next"></i></a>
                         </div>
                     </div>

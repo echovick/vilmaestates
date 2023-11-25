@@ -2,11 +2,18 @@
 
 namespace App\Http\Controllers\Site;
 
+use App\Constants\EstateProperty;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 
 class SiteController extends Controller
 {
+    public $estateProperty;
+
+    public function __construct()
+    {
+        $this->estateProperty = new EstateProperty;
+    }
     public function homePage()
     {
         return view('pages.home');
@@ -39,7 +46,15 @@ class SiteController extends Controller
 
     public function propertiesPage()
     {
-        return view('pages.properties');
+        $properties = $this->estateProperty->properties;
+        $estates = $this->estateProperty->estates;
+
+        return view('pages.properties', compact('properties', 'estates'));
+    }
+
+    public function propertyDetailPage()
+    {
+        return view('pages.propertyDetail');
     }
 
     public function servicesPage()

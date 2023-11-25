@@ -7,8 +7,7 @@
         <div class="ltn__slider-11-inner">
             <div class="ltn__slider-11-active">
                 <!-- slide-item -->
-                <div
-                    class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal ltn__slide-item-3 ltn__slide-item-11">
+                <div class="ltn__slide-item ltn__slide-item-2 ltn__slide-item-3-normal ltn__slide-item-3 ltn__slide-item-11">
                     <div class="ltn__slide-item-inner">
                         <div class="container">
                             <div class="row">
@@ -22,15 +21,15 @@
                                                     <i class="fa fa-play"></i>
                                                 </a>
                                             </div>
-                                            <h6 class="slide-sub-title white-color--- animated"><span><i
-                                                        class="fas fa-home"></i></span> Real Estate | Investment |
-                                                Innovation</h6>
-                                            <h1 class="slide-title animated ">Search and Find
-                                                <br><span>Luxury</span> House
+                                            <h6 class="slide-sub-title white-color--- animated">
+                                                <span><i class="fas fa-home"></i></span> Real Estate | Investment |
+                                                Innovation
+                                            </h6>
+                                            <h1 class="slide-title animated">Search and Find Your
+                                                <br><span>Dream</span> Home
                                             </h1>
                                             <div class="slide-brief animated">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-                                                    eiusmod tempor incididunt ut labore.</p>
+                                                <p>Welcome to VILMA LTD - Your Trusted Real Estate Partner</p>
                                             </div>
                                             <div class="btn-wrapper animated">
                                                 <a href="about.html" class="theme-btn-1 btn btn-effect-1">Make An
@@ -44,7 +43,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="{{ asset('img/slider/61.jpg') }}" alt="#">
+                                        <img src="{{ asset('img/estates/Olive.jpg') }}" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -83,7 +82,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="{{ asset('img/slider/62.jpg') }}" alt="#">
+                                        <img src="{{ asset('img/estates/Cedar.jpg') }}" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -122,7 +121,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="{{ asset('img/slider/63.jpg') }}" alt="#">
+                                        <img src="{{ asset('img/estates/Iris.jpg') }}" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -161,7 +160,7 @@
                                         </div>
                                     </div>
                                     <div class="slide-item-img">
-                                        <img src="{{ asset('img/slider/64.jpg') }}" alt="#">
+                                        <img src="{{ asset('img/estates/Kaura.jpg') }}" alt="#">
                                     </div>
                                 </div>
                             </div>
@@ -187,16 +186,16 @@
                 <div class="ltn__slider-11-img-slide-arrow-inner">
                     <div class="ltn__slider-11-img-slide-arrow-active">
                         <div class="image-slide-item">
-                            <img src="{{ asset('img/slider/61.jpg') }}" alt="Flower Image">
+                            <img src="{{ asset('img/estates/Olive.jpg') }}" alt="Flower Image">
                         </div>
                         <div class="image-slide-item">
-                            <img src="{{ asset('img/slider/62.jpg') }}" alt="Flower Image">
+                            <img src="{{ asset('img/estates/Cedar.jpg') }}" alt="Flower Image">
                         </div>
                         <div class="image-slide-item">
-                            <img src="{{ asset('img/slider/63.jpg') }}" alt="Flower Image">
+                            <img src="{{ asset('img/estates/Iris.jpg') }}" alt="Flower Image">
                         </div>
                         <div class="image-slide-item">
-                            <img src="{{ asset('img/slider/64.jpg') }}" alt="Flower Image">
+                            <img src="{{ asset('img/estates/Kaura.jpg') }}" alt="Flower Image">
                         </div>
                     </div>
                     <!-- slider-4-slide-item-count -->
@@ -235,10 +234,14 @@
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-30">
                             <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">About Us</h6>
-                            <h1 class="section-title">Dream Living Spaces
-                                Setting New Build</h1>
-                            <p>Over 39,000 people work for us in more than 70 countries all over the
-                                This breadth of global coverage, combined with specialist services</p>
+                            <h1 class="section-title">Welcome to VILMA LTD</h1>
+                            <p>At VILMA LTD, we believe that finding your dream home or making
+                                sound real estate investments should be an exciting and seamless
+                                experience. With a passion for properties and a commitment to
+                                excellence, we have been serving the Nigerian community for two years,
+                                helping countless individuals and families turn their real estate dreams
+                                into reality. We are ready for YOU.
+                            </p>
                         </div>
                         <div class="ltn__feature-item ltn__feature-item-3">
                             <div class="ltn__feature-icon">
@@ -246,8 +249,9 @@
                             </div>
                             <div class="ltn__feature-info">
                                 <h4><a href="service-details.html">The Perfect Residency</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisic do eiusmod tempor incididunt ut
-                                    labore et</p>
+                                <p>Discover the epitome of living with our meticulously designed and carefully crafted
+                                    residences. We provide homes that are not just buildings but the perfect embodiment of
+                                    comfort, luxury, and style.</p>
                             </div>
                         </div>
                         <div class="ltn__feature-item ltn__feature-item-3">
@@ -256,18 +260,9 @@
                             </div>
                             <div class="ltn__feature-info">
                                 <h4><a href="service-details.html">Global Architect Experts</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisic do eiusmod tempor incididunt ut
-                                    labore et</p>
-                            </div>
-                        </div>
-                        <div class="ltn__feature-item ltn__feature-item-3">
-                            <div class="ltn__feature-icon">
-                                <span><i class="flaticon-maps-and-location"></i></span>
-                            </div>
-                            <div class="ltn__feature-info">
-                                <h4><a href="service-details.html">Built-in Storage Cupboards</a></h4>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisic do eiusmod tempor incididunt ut
-                                    labore et</p>
+                                <p>Trust in our global network of architect experts who bring innovation and expertise to
+                                    every project. We collaborate with the finest minds to ensure your real estate ventures
+                                    are backed by world-class architectural knowledge.</p>
                             </div>
                         </div>
                     </div>
@@ -284,37 +279,30 @@
                 <div class="col-lg-6 align-self-center">
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-20">
-                            <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Building
-                                Facilities</h6>
-                            <h1 class="section-title">Making living spaces
-                                More Beautiful</h1>
-                            <p>Over 39,000 people work for us in more than 70 countries all over the
-                                This breadth of global coverage, combined with specialist services</p>
+                            <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Building Facilities
+                            </h6>
+                            <h1 class="section-title">Making Living Spaces More Beautiful</h1>
+                            <p>At VILMA LTD, we go beyond constructing buildings; we create living spaces that redefine
+                                beauty and comfort. Over two years, we've passionately served the Nigerian community,
+                                turning real estate dreams into reality.</p>
                         </div>
                         <ul class="ltn__list-item-half ltn__list-item-half-2 list-item-margin clearfix">
                             <li>
                                 <i class="icon-done"></i>
-                                Living rooms are pre-wired for Surround
+                                Personalized and innovative solutions tailored to your needs.
                             </li>
                             <li>
                                 <i class="icon-done"></i>
-                                Luxurious interior design and amenities
+                                Meticulous market research and industry expertise.
                             </li>
                             <li>
                                 <i class="icon-done"></i>
-                                Nestled in the Buckhead Vinings communities
+                                Passionate professionals committed to the highest ethical standards, transparency, and
+                                accountability.
                             </li>
                             <li>
                                 <i class="icon-done"></i>
-                                Private balconies with stunning views
-                            </li>
-                            <li>
-                                <i class="icon-done"></i>
-                                A rare combination of inspired architecture
-                            </li>
-                            <li>
-                                <i class="icon-done"></i>
-                                Outdoor grilling with dining court
+                                Opportunities to build lasting relationships and embrace change.
                             </li>
                         </ul>
                         <div class="  ltn__animation-pulse2 text-center mt-30">
@@ -328,7 +316,7 @@
                 </div>
                 <div class="col-lg-6 align-self-center">
                     <div class="about-us-img-wrap about-img-left">
-
+                        <!-- Add your image or video content here -->
                     </div>
                 </div>
             </div>
@@ -355,8 +343,9 @@
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="service-details.html">Real Estate</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a
-                                house you will want to call home.</p>
+                            <p>Embark on your real estate journey with VILMA LTD. Explore our curated selection of homes for
+                                sale and find your dream residence. Let us match you with a house that suits your lifestyle.
+                            </p>
                             <a class="ltn__service-btn" href="service-details.html">Find A Home <i
                                     class="flaticon-right-arrow"></i></a>
                         </div>
@@ -369,9 +358,9 @@
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="service-details.html">Investment</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a
-                                house you will want to call home.</p>
-                            <a class="ltn__service-btn" href="service-details.html">Find A Home <i
+                            <p>Transform your financial future through strategic real estate investments. VILMA LTD offers
+                                opportunities to explore and invest in properties that promise long-term growth.</p>
+                            <a class="ltn__service-btn" href="service-details.html">Explore Investments <i
                                     class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
@@ -383,9 +372,10 @@
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="service-details.html">Innovation</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a
-                                house you will want to call home.</p>
-                            <a class="ltn__service-btn" href="service-details.html">Find A Home <i
+                            <p>Experience innovation in every aspect of real estate with VILMA LTD. Our selection of homes,
+                                backed by cutting-edge design and technology, redefines modern living. Explore innovation
+                                with us!</p>
+                            <a class="ltn__service-btn" href="service-details.html">Discover Innovation <i
                                     class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
@@ -393,6 +383,7 @@
             </div>
         </div>
     </div>
+
     <!-- FEATURE AREA END -->
 
     <!-- UPCOMING PROJECT AREA START -->
@@ -402,94 +393,101 @@
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center---">
                         <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color--- white-color">
-                            Upcoming Projects</h6>
-                        <h1 class="section-title  white-color">Dream Living Space <br>
-                            Setting New Standards</h1>
+                            Featured Estates</h6>
+                        <h1 class="section-title  white-color">Explore Our Luxurious Properties</h1>
                     </div>
                 </div>
             </div>
             <div class="row ltn__upcoming-project-slider-1-active slick-arrow-3">
-                <!-- upcoming-project-item -->
+                <!-- Nando Ville Estate -->
                 <div class="col-lg-12">
                     <div class="ltn__upcoming-project-item">
                         <div class="row">
                             <div class="col-lg-7">
                                 <div class="ltn__upcoming-project-img">
-                                    <img src="{{ asset('img/product-3/3.jpg') }}" alt="#">
+                                    <img src="{{ asset('img/estates/Nando.jpg') }}" alt="#">
                                 </div>
                             </div>
                             <div class="col-lg-5 section-bg-1">
                                 <div class="ltn__upcoming-project-info ltn__menu-widget">
-                                    <h6 class="section-subtitle ltn__secondary-color mb-0">About Projects</h6>
-                                    <h1 class="mb-30">Upcoming Projects</h1>
+                                    <h6 class="section-subtitle ltn__secondary-color mb-0">Nando Ville Estate</h6>
+                                    <h1 class="mb-30">Luxurious Living in Lifecamp</h1>
                                     <ul class="mt">
-                                        <li>1. Project Name: <span>Vilma</span></li>
-                                        <li>2. Project Type: <span>Apartment / Home</span></li>
-                                        <li>3. Building Location: <span>New York, USA</span></li>
-                                        <li>4. No. Of Apartments: <span>568</span></li>
-                                        <li>5. Total Investment: <span>$14,500,00</span></li>
+                                        <li>Prototype: <span>450sqm</span></li>
+                                        <li>Location: <span>Lifecamp</span></li>
+                                        <li>House Type: <span>Four Bedroom Duplex with attached BQ</span></li>
+                                        <li>Description: <span>This spacious four-bedroom duplex offers a blend of elegance
+                                                and functionality. With a well-designed floor plan, the property boasts a
+                                                generous living space, a modern kitchen, and four bedrooms that provide
+                                                ample room for comfort and privacy.</span></li>
                                     </ul>
                                     <div class="btn-wrapper animated">
-                                        <a href="contact.html" class="theme-btn-1 btn btn-effect-1">Download
-                                            Brochure</a>
+                                        <a href="#" class="theme-btn-1 btn btn-effect-1">Explore Nando
+                                            Ville</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- upcoming-project-item -->
+                <!-- Vilma Dymphna Estate - Trojan -->
                 <div class="col-lg-12">
                     <div class="ltn__upcoming-project-item">
                         <div class="row">
                             <div class="col-lg-7">
                                 <div class="ltn__upcoming-project-img">
-                                    <img src="{{ asset('img/product-3/2.jpg') }}" alt="#">
+                                    <img src="{{ asset('img/estates/Trojan 3.jpg') }}" alt="#">
                                 </div>
                             </div>
                             <div class="col-lg-5 section-bg-1">
                                 <div class="ltn__upcoming-project-info ltn__menu-widget">
-                                    <h6 class="ltn__secondary-color">About Projects</h6>
-                                    <h1>Upcoming Projects</h1>
+                                    <h6 class="ltn__secondary-color">Vilma Dymphna Estate - Trojan</h6>
+                                    <h1>Modern Living in Lugbe</h1>
                                     <ul>
-                                        <li>1. Project Name: <span>Vilma</span></li>
-                                        <li>2. Project Type: <span>Apartment / Home</span></li>
-                                        <li>3. Building Location: <span>New York, USA</span></li>
-                                        <li>4. No. Of Apartments: <span>568</span></li>
-                                        <li>5. Total Investment: <span>$14,500,00</span></li>
+                                        <li>Prototype: <span>250sqm</span></li>
+                                        <li>Location: <span>Lugbe</span></li>
+                                        <li>House Type: <span>Four Bedroom Terrace Duplex</span></li>
+                                        <li>Description: <span>This elegant four-bedroom terrace duplex boasts a modern
+                                                architectural design, combining functionality with aesthetic appeal. The
+                                                spacious interior features a well-appointed kitchen, comfortable living
+                                                areas, and en-suite bedrooms, offering a perfect blend of comfort and
+                                                style.</span></li>
                                     </ul>
                                     <div class="btn-wrapper animated">
-                                        <a href="contact.html" class="theme-btn-1 btn btn-effect-1">Download
-                                            Brochure</a>
+                                        <a href="#" class="theme-btn-1 btn btn-effect-1">Explore Trojan</a>
                                     </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- upcoming-project-item -->
+                <!-- Vilma Dymphna Estate - Paris -->
                 <div class="col-lg-12">
                     <div class="ltn__upcoming-project-item">
                         <div class="row">
                             <div class="col-lg-7">
                                 <div class="ltn__upcoming-project-img">
-                                    <img src="{{ asset('img/product-3/7.jpg') }}" alt="#">
+                                    <img src="{{ asset('img/estates/image 5.jpg') }}" alt="#">
                                 </div>
                             </div>
                             <div class="col-lg-5 section-bg-1">
                                 <div class="ltn__upcoming-project-info ltn__menu-widget">
-                                    <h6 class="ltn__secondary-color">About Projects</h6>
-                                    <h1>Upcoming Projects</h1>
+                                    <h6 class="ltn__secondary-color">Vilma Dymphna Estate - Paris</h6>
+                                    <h1>Luxury Living in Lugbe</h1>
                                     <ul>
-                                        <li>1. Project Name: <span>Vilma</span></li>
-                                        <li>2. Project Type: <span>Apartment / Home</span></li>
-                                        <li>3. Building Location: <span>New York, USA</span></li>
-                                        <li>4. No. Of Apartments: <span>568</span></li>
-                                        <li>5. Total Investment: <span>$14,500,00</span></li>
+                                        <li>Prototype: <span>350sqm</span></li>
+                                        <li>Location: <span>Lugbe</span></li>
+                                        <li>House Type: <span>Four Bedroom Fully Detached Duplex</span></li>
+                                        <li>Description: <span>This elegant four-bedroom detached duplex offers spacious
+                                                living with modern amenities. The property features a well-designed floor
+                                                plan, with a stylish kitchen, comfortable living areas, and four generously
+                                                sized bedrooms. The exterior boasts a tasteful blend of architecture, and
+                                                the surrounding landscape enhances the overall appeal. Perfect for families
+                                                seeking a combination of luxury and practicality, this property provides a
+                                                desirable residential experience.</span></li>
                                     </ul>
                                     <div class="btn-wrapper animated">
-                                        <a href="contact.html" class="theme-btn-1 btn btn-effect-1">Download
-                                            Brochure</a>
+                                        <a href="#" class="theme-btn-1 btn btn-effect-1">Explore Paris</a>
                                     </div>
                                 </div>
                             </div>
@@ -500,10 +498,12 @@
             </div>
         </div>
     </div>
+
+
     <!-- UPCOMING PROJECT AREA END -->
 
     <!-- APARTMENTS PLAN AREA START -->
-    <div class="ltn__apartments-plan-area pt-115--- pb-70">
+    {{-- <div class="ltn__apartments-plan-area pt-115--- pb-70">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
@@ -676,7 +676,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- APARTMENTS PLAN AREA END -->
 
     <!-- SEARCH BY PLACE AREA START (testimonial-7) -->
@@ -685,7 +685,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center---">
-                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Area Properties
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Discover Properties
                         </h6>
                         <h1 class="section-title">Find Your Dream House <br>
                             Search By Area</h1>
@@ -696,7 +696,8 @@
                 <div class="col-lg-4">
                     <div class="ltn__search-by-place-item">
                         <div class="search-by-place-img">
-                            <a href="product-details.html"><img src="{{ asset('img/product-3/1.jpg') }}" alt="#"></a>
+                            <a href="product-details.html"><img src="{{ asset('img/product-3/1.jpg') }}"
+                                    alt="#"></a>
                             <div class="search-by-place-badge">
                                 <ul>
                                     <li>2 Properties</li>
@@ -704,8 +705,8 @@
                             </div>
                         </div>
                         <div class="search-by-place-info">
-                            <h6><a href="locations.html">Abuja, Nigeria</a></h6>
-                            <h4><a href="product-details.html">Central Area</a></h4>
+                            <h6><a href="locations.html">Life Camp</a></h6>
+                            <h4><a href="product-details.html">Abuja, Nigeria</a></h4>
                             <div class="search-by-place-btn">
                                 <a href="product-details.html">View Property <i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -715,7 +716,8 @@
                 <div class="col-lg-4">
                     <div class="ltn__search-by-place-item">
                         <div class="search-by-place-img">
-                            <a href="product-details.html"><img src="{{ asset('img/product-3/2.jpg') }}" alt="#"></a>
+                            <a href="product-details.html"><img src="{{ asset('img/product-3/2.jpg') }}"
+                                    alt="#"></a>
                             <div class="search-by-place-badge">
                                 <ul>
                                     <li>5 Properties</li>
@@ -723,8 +725,8 @@
                             </div>
                         </div>
                         <div class="search-by-place-info">
-                            <h6><a href="locations.html">Abuja, Nigeria</a></h6>
-                            <h4><a href="product-details.html">Asokoro District</a></h4>
+                            <h6><a href="locations.html">Mbora</a></h6>
+                            <h4><a href="product-details.html">Abuja, Nigeria</a></h4>
                             <div class="search-by-place-btn">
                                 <a href="product-details.html">View Property <i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -734,7 +736,8 @@
                 <div class="col-lg-4">
                     <div class="ltn__search-by-place-item">
                         <div class="search-by-place-img">
-                            <a href="product-details.html"><img src="{{ asset('img/product-3/3.jpg') }}" alt="#"></a>
+                            <a href="product-details.html"><img src="{{ asset('img/product-3/3.jpg') }}"
+                                    alt="#"></a>
                             <div class="search-by-place-badge">
                                 <ul>
                                     <li>9 Properties</li>
@@ -742,8 +745,8 @@
                             </div>
                         </div>
                         <div class="search-by-place-info">
-                            <h6><a href="locations.html">Abuja, Nigeria</a></h6>
-                            <h4><a href="product-details.html">Maitama Discrict</a></h4>
+                            <h6><a href="locations.html">Apo</a></h6>
+                            <h4><a href="product-details.html">Abuja, Nigeria</a></h4>
                             <div class="search-by-place-btn">
                                 <a href="product-details.html">View Property <i class="flaticon-right-arrow"></i></a>
                             </div>
@@ -753,7 +756,8 @@
                 <div class="col-lg-4">
                     <div class="ltn__search-by-place-item">
                         <div class="search-by-place-img">
-                            <a href="product-details.html"><img src="{{ asset('img/product-3/2.jpg') }}" alt="#"></a>
+                            <a href="product-details.html"><img src="{{ asset('img/product-3/2.jpg') }}"
+                                    alt="#"></a>
                             <div class="search-by-place-badge">
                                 <ul>
                                     <li>5 Properties</li>
@@ -761,18 +765,19 @@
                             </div>
                         </div>
                         <div class="search-by-place-info">
-                            <h6><a href="locations.html">New York</a></h6>
-                            <h4><a href="product-details.html">Pacific Heights Area</a></h4>
+                            <h6><a href="locations.html">Wassa</a></h6>
+                            <h4><a href="product-details.html">Abuja, Nigeria</a></h4>
                             <div class="search-by-place-btn">
                                 <a href="product-details.html">View Property <i class="flaticon-right-arrow"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!--  -->
+                <!-- Additional locations can be added following the same pattern -->
             </div>
         </div>
     </div>
+
     <!-- SEARCH BY PLACE AREA END -->
 
     <!-- SELECT AVAILABILITY AREA START -->
@@ -781,7 +786,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center---">
-                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Avialable Properties
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Available Properties
                         </h6>
                         <h1 class="section-title">Recent Properties</h1>
                     </div>
@@ -793,81 +798,103 @@
                         <div class="ltn__select-availability-table d-none d-md-block">
                             <ul class="ltn__select-availability-table-head">
                                 <li>Residence</li>
-                                <li>SQ.FT </li>
+                                <li>SQ.FT</li>
                                 <li>Unit Price</li>
                                 <li>Details</li>
                             </ul>
+                            <!-- Property 1 - Vilma Lydia Court -->
                             <ul class="ltn__select-availability-table-row">
-                                <li class="tower-name">Vilma Estate 1</li>
-                                <li>1,200 </li>
-                                <li>$3,500</li>
+                                <li class="tower-name">Vilma Lydia Court - Pine</li>
+                                <li>250 </li>
+                                <li>For Sale</li>
                                 <li><a href="product-details.html">+ Available</a></li>
                             </ul>
+                            <!-- Property 2 - Vilma Dymphna Estate -->
                             <ul class="ltn__select-availability-table-row">
-                                <li class="tower-name">Vilma Estate 2</li>
-                                <li>1,200 </li>
-                                <li>$3,500</li>
+                                <li class="tower-name">Vilma Dymphna Estate - Paris</li>
+                                <li>350 </li>
+                                <li>For Sale</li>
                                 <li><a href="product-details.html">+ Available</a></li>
                             </ul>
+                            <!-- Property 3 - Vilma Lydia Court -->
                             <ul class="ltn__select-availability-table-row">
-                                <li class="tower-name">Vilma Estate 3</li>
-                                <li>1,200 </li>
-                                <li>$3,500</li>
+                                <li class="tower-name">Vilma Lydia Court - Leo</li>
+                                <li>350 </li>
+                                <li>For Sale</li>
                                 <li><a href="product-details.html">+ Available</a></li>
                             </ul>
+                            <!-- Property 4 - Vilma Lydia Court -->
                             <ul class="ltn__select-availability-table-row">
-                                <li class="tower-name">Vilma Estate 4</li>
-                                <li>1,200 </li>
-                                <li>$3,500</li>
+                                <li class="tower-name">Vilma Lydia Court - Iris</li>
+                                <li>500 </li>
+                                <li>For Sale</li>
                                 <li><a href="product-details.html">+ Available</a></li>
                             </ul>
+                            <!-- Property 5 - Vilma Lydia Court -->
                             <ul class="ltn__select-availability-table-row">
-                                <li class="tower-name">Vilma Estate 5</li>
-                                <li>1,200 </li>
-                                <li>$3,500</li>
+                                <li class="tower-name">Vilma Lydia Court - Cedar</li>
+                                <li>300 </li>
+                                <li>For Sale</li>
                                 <li><a href="product-details.html">+ Available</a></li>
                             </ul>
                         </div>
                         <div class="ltn__select-availability-table-responsive d-md-none">
+                            <!-- Responsive View for Small Screens -->
+                            <!-- Property 1 - Vilma Lydia Court -->
                             <ul class="ltn__select-availability-table-row-responsive-item">
-                                <li><span>Residence</span> <span class="tower-name">Vilma Estate 1</span></li>
-                                <li><span>SQ.FT</span> <span>1,200</span></li>
-                                <li><span>Rent Price</span> <span>$3,500</span></li>
-                                <li><span>Details</span> <span><a href="product-details.html">+
-                                            Available</a></span></li>
+                                <li><span>Residence</span> <span class="tower-name">Vilma Lydia Court - Pine</span></li>
+                                <li><span>SQ.FT</span> <span>250</span></li>
+                                <li><span>Status</span> <span>For Sale</span></li>
+                                <li><span>Details</span> <span><a href="product-details.html">+ Available</a></span></li>
                             </ul>
+                            <!-- Property 2 - Vilma Dymphna Estate -->
                             <ul class="ltn__select-availability-table-row-responsive-item">
-                                <li><span>Residence</span> <span class="tower-name">Vilma Estate 2</span></li>
-                                <li><span>SQ.FT</span> <span>1,200</span></li>
-                                <li><span>Rent Price</span> <span>$3,500</span></li>
-                                <li><span>Details</span> <span><a href="product-details.html">+
-                                            Available</a></span></li>
+                                <li><span>Residence</span> <span class="tower-name">Vilma Dymphna Estate - Paris</span>
+                                </li>
+                                <li><span>SQ.FT</span> <span>350</span></li>
+                                <li><span>Status</span> <span>For Sale</span></li>
+                                <li><span>Details</span> <span><a href="product-details.html">+ Available</a></span></li>
                             </ul>
+                            <!-- Property 3 - Vilma Lydia Court -->
                             <ul class="ltn__select-availability-table-row-responsive-item">
-                                <li><span>Residence</span> <span class="tower-name">Vilma Estate 3</span></li>
-                                <li><span>SQ.FT</span> <span>1,200</span></li>
-                                <li><span>Rent Price</span> <span>$3,500</span></li>
-                                <li><span>Details</span> <span><a href="product-details.html">+
-                                            Available</a></span></li>
+                                <li><span>Residence</span> <span class="tower-name">Vilma Lydia Court - Leo</span></li>
+                                <li><span>SQ.FT</span> <span>350</span></li>
+                                <li><span>Status</span> <span>For Sale</span></li>
+                                <li><span>Details</span> <span><a href="product-details.html">+ Available</a></span></li>
                             </ul>
+                            <!-- Property 4 - Vilma Lydia Court -->
+                            <ul class="ltn__select-availability-table-row-responsive-item">
+                                <li><span>Residence</span> <span class="tower-name">Vilma Lydia Court - Iris</span></li>
+                                <li><span>SQ.FT</span> <span>500</span></li>
+                                <li><span>Status</span> <span>For Sale</span></li>
+                                <li><span>Details</span> <span><a href="product-details.html">+ Available</a></span></li>
+                            </ul>
+                            <!-- Property 5 - Vilma Lydia Court -->
+                            <ul class="ltn__select-availability-table-row-responsive-item">
+                                <li><span>Residence</span> <span class="tower-name">Vilma Lydia Court - Cedar</span></li>
+                                <li><span>SQ.FT</span> <span>300</span></li>
+                                <li><span>Status</span> <span>For Sale</span></li>
+                                <li><span>Details</span> <span><a href="product-details.html">+ Available</a></span></li>
+                            </ul>
+                            <!-- Additional properties can be added following the same pattern -->
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
     <!-- SELECT AVAILABILITY AREA END -->
 
     <!-- NEIGHBOUR AREA START -->
-    <div class="neighbour-area section-bg-1 pt-118 pb-120">
+    {{-- <div class="neighbour-area section-bg-1 pt-118 pb-120">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center---">
                         <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Explore Neighbour
                         </h6>
-                        <h1 class="section-title">What’s In Neighbour <br>
-                            Explore Below</h1>
+                        <h1 class="section-title">What’s In Neighbour <br> Explore Below</h1>
                     </div>
                 </div>
             </div>
@@ -897,8 +924,8 @@
                                         <div class="col-lg-4">
                                             <div class="ltn__search-by-place-item neighbour-apartments-item">
                                                 <div class="search-by-place-img">
-                                                    <a href="product-details.html"><img src="{{ asset('img/product-3/3.jpg') }}"
-                                                            alt="#"></a>
+                                                    <a href="product-details.html"><img
+                                                            src="{{ asset('img/product-3/3.jpg') }}" alt="#"></a>
                                                     <div class="search-by-place-badge">
                                                         <ul>
                                                             <li>9 Properties</li>
@@ -910,9 +937,11 @@
                                                     <label><span class="ltn__secondary-color">1,500m </span>/ 21
                                                         min. walk</label>
                                                     <div class="search-by-place-brief">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing
-                                                            elit, sed do eiusmod tempor incididunt ut labore Enim
-                                                            ullamco laboris.</p>
+                                                        <p>This bustling shopping center offers a diverse range of
+                                                            stores and amenities, making it a one-stop destination for
+                                                            your shopping needs. Explore the latest fashion trends,
+                                                            dine at exquisite restaurants, and enjoy a vibrant
+                                                            shopping experience.</p>
                                                     </div>
                                                     <div class="search-by-place-btn">
                                                         <a href="product-details.html">View Property <i
@@ -935,8 +964,8 @@
                                         <div class="col-lg-4">
                                             <div class="ltn__search-by-place-item neighbour-apartments-item">
                                                 <div class="search-by-place-img">
-                                                    <a href="product-details.html"><img src="{{ asset('img/product-3/2.jpg') }}"
-                                                            alt="#"></a>
+                                                    <a href="product-details.html"><img
+                                                            src="{{ asset('img/product-3/2.jpg') }}" alt="#"></a>
                                                     <div class="search-by-place-badge">
                                                         <ul>
                                                             <li>9 Properties</li>
@@ -948,9 +977,11 @@
                                                     <label><span class="ltn__secondary-color">1,500m </span>/ 21
                                                         min. walk</label>
                                                     <div class="search-by-place-brief">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing
-                                                            elit, sed do eiusmod tempor incididunt ut labore Enim
-                                                            ullamco laboris.</p>
+                                                        <p>Experience world-class healthcare at the nearby medical
+                                                            hospital. Equipped with state-of-the-art facilities and
+                                                            expert medical professionals, it ensures the well-being of
+                                                            the community. Your health and safety are our top
+                                                            priorities.</p>
                                                     </div>
                                                     <div class="search-by-place-btn">
                                                         <a href="product-details.html">View Property <i
@@ -973,8 +1004,8 @@
                                         <div class="col-lg-4">
                                             <div class="ltn__search-by-place-item neighbour-apartments-item">
                                                 <div class="search-by-place-img">
-                                                    <a href="product-details.html"><img src="{{ asset('img/product-3/4.jpg') }}"
-                                                            alt="#"></a>
+                                                    <a href="product-details.html"><img
+                                                            src="{{ asset('img/product-3/4.jpg') }}" alt="#"></a>
                                                     <div class="search-by-place-badge">
                                                         <ul>
                                                             <li>9 Properties</li>
@@ -986,9 +1017,10 @@
                                                     <label><span class="ltn__secondary-color">1,500m </span>/ 21
                                                         min. walk</label>
                                                     <div class="search-by-place-brief">
-                                                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing
-                                                            elit, sed do eiusmod tempor incididunt ut labore Enim
-                                                            ullamco laboris.</p>
+                                                        <p>Give your children a space to play and explore at the
+                                                            nearby children's playland. This family-friendly
+                                                            recreational area is designed for fun and safety, creating
+                                                            memorable experiences for your little ones.</p>
                                                     </div>
                                                     <div class="search-by-place-btn">
                                                         <a href="product-details.html">View Property <i
@@ -1014,10 +1046,10 @@
                                         </h6>
                                         <div id="faq-item-2-1" class="collapse" data-bs-parent="#accordion_2">
                                             <div class="card-body">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                                    Scelerisque eleifend donec pretium vulputate sapien nec
-                                                    sagittis.</p>
+                                                <p>Access quality education at the nearby university or college.
+                                                    Offering a range of courses and programs, it's a hub for
+                                                    academic excellence. Nurture your intellect and unlock
+                                                    opportunities for a brighter future.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1037,10 +1069,10 @@
                                                         <i class="fa fa-play"></i>
                                                     </a>
                                                 </div>
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                                    Scelerisque eleifend donec pretium vulputate sapien nec
-                                                    sagittis.</p>
+                                                <p>Experience world-class healthcare at the nearby medical
+                                                    hospital. Equipped with state-of-the-art facilities and expert
+                                                    medical professionals, it ensures the well-being of the
+                                                    community. Your health and safety are our top priorities.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -1052,10 +1084,11 @@
                                         </h6>
                                         <div id="faq-item-2-3" class="collapse" data-bs-parent="#accordion_2">
                                             <div class="card-body">
-                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-                                                    eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                                    Scelerisque eleifend donec pretium vulputate sapien nec
-                                                    sagittis.</p>
+                                                <p>Enjoy convenient transportation with the nearby railway
+                                                    station. Connect to various destinations with ease,
+                                                    providing a seamless commuting experience for residents.
+                                                    Travel efficiently and explore the surroundings effortlessly.
+                                                </p>
                                             </div>
                                         </div>
                                     </div>
@@ -1066,7 +1099,8 @@
                                 <div id="accordion_3">
                                     <!-- card -->
                                     <div class="card">
-                                        <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse"
+                                        <h6 class="collapsed ltn__card-title" data-bs-toggle="collapse
+    "
                                             data-bs-target="#faq-item-3-4" aria-expanded="false">
                                             <i class="flaticon-building"></i> Shopping Mall
                                         </h6>
@@ -1117,7 +1151,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
     <!-- NEIGHBOUR AREA END -->
 
     <!-- CATEGORY AREA START -->
@@ -1126,20 +1160,20 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center">
-                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Our Aminities</h6>
-                        <h1 class="section-title">Building Aminities</h1>
+                        <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Our Amenities</h6>
+                        <h1 class="section-title">Building Amenities</h1>
                     </div>
                 </div>
             </div>
             <div class="row ltn__category-slider-active--- slick-arrow-1 justify-content-center">
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-car"></i></span>
                             <span class="category-number">01</span>
                             <span class="category-title">Parking Space</span>
                             <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                                Dedicated parking space for residents and visitors.
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -1147,12 +1181,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-swimming"></i></span>
                             <span class="category-number">02</span>
                             <span class="category-title">Swimming Pool</span>
                             <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                                Luxurious swimming pool for relaxation and recreation.
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -1160,12 +1194,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-secure-shield"></i></span>
                             <span class="category-number">03</span>
                             <span class="category-title">Private Security</span>
                             <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                                24/7 private security services for a safe and secure environment.
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -1173,12 +1207,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-stethoscope"></i></span>
                             <span class="category-number">04</span>
                             <span class="category-title">Medical Center</span>
                             <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                                On-site medical center for residents' health and well-being.
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -1186,12 +1220,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-book"></i></span>
                             <span class="category-number">05</span>
                             <span class="category-title">Library Area</span>
                             <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                                Quiet library area for reading and studying.
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -1199,12 +1233,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-bed-1"></i></span>
                             <span class="category-number">06</span>
                             <span class="category-title">King Size Beds</span>
                             <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                                Comfortable king-size beds for a good night's sleep.
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -1212,12 +1246,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-home-2"></i></span>
                             <span class="category-number">07</span>
                             <span class="category-title">Smart Homes</span>
                             <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                                Modern smart homes with advanced automation.
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -1225,12 +1259,12 @@
                 </div>
                 <div class="col-lg-3 col-md-4 col-sm-6 col-6">
                     <div class="ltn__category-item ltn__category-item-5 ltn__category-item-5-2 text-center---">
-                        <a href="shop.html">
+                        <a href="#">
                             <span class="category-icon"><i class="flaticon-slider"></i></span>
                             <span class="category-number">08</span>
                             <span class="category-title">Kid’s Playland</span>
                             <span class="category-brief">
-                                Enimad minim veniam quis no exercitation ullamco lab
+                                Fun and secure play area for children.
                             </span>
                             <span class="category-btn d-none"><i class="flaticon-right-arrow"></i></span>
                         </a>
@@ -1239,6 +1273,7 @@
             </div>
         </div>
     </div>
+
     <!-- CATEGORY AREA END -->
 
     <!-- TESTIMONIAL AREA START (testimonial-8) -->
@@ -1249,7 +1284,7 @@
                     <div class="section-title-area ltn__section-title-2--- text-center---">
                         <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color--- white-color">
                             Client,s Testimonial</h6>
-                        <h1 class="section-title white-color">See What,s Our Client <br>
+                        <h1 class="section-title white-color">See What Our Client <br>
                             Says About Us</h1>
                     </div>
                 </div>
@@ -1264,8 +1299,8 @@
                                         <img src="{{ asset('img/testimonial/1.jpg') }}" alt="#">
                                     </div>
                                     <div class="ltn__testimoni-name-designation">
-                                        <h5>Jacob William</h5>
-                                        <label>Selling Agents</label>
+                                        <h5>Alice Johnson</h5>
+                                        <label>Home Buyer</label>
                                     </div>
                                 </div>
                                 <div class="ltn__testimoni-rating">
@@ -1281,12 +1316,10 @@
                                 </div>
                             </div>
                             <p>
-                                Precious ipsum dolor sit amet
-                                consectetur adipisicing elit, sed dos
-                                mod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad min
-                                veniam, quis nostrud Precious ips
-                                um dolor sit amet, consecte</p>
+                                I recently purchased a property through this agency, and I'm extremely satisfied with their
+                                services. The agents were professional, knowledgeable, and helped me find the perfect home.
+                                Highly recommended!
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1299,8 +1332,8 @@
                                         <img src="{{ asset('img/testimonial/2.jpg') }}" alt="#">
                                     </div>
                                     <div class="ltn__testimoni-name-designation">
-                                        <h5>Kelian Anderson</h5>
-                                        <label>Selling Agents</label>
+                                        <h5>John Martinez</h5>
+                                        <label>Property Investor</label>
                                     </div>
                                 </div>
                                 <div class="ltn__testimoni-rating">
@@ -1316,12 +1349,10 @@
                                 </div>
                             </div>
                             <p>
-                                Precious ipsum dolor sit amet
-                                consectetur adipisicing elit, sed dos
-                                mod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad min
-                                veniam, quis nostrud Precious ips
-                                um dolor sit amet, consecte</p>
+                                The team at this real estate agency made my investment journey seamless. They provided
+                                valuable insights and helped me make informed decisions. I appreciate their professionalism
+                                and commitment to client satisfaction.
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1334,8 +1365,8 @@
                                         <img src="{{ asset('img/testimonial/3.jpg') }}" alt="#">
                                     </div>
                                     <div class="ltn__testimoni-name-designation">
-                                        <h5>Adam Joseph</h5>
-                                        <label>Selling Agents</label>
+                                        <h5>Sophia Turner</h5>
+                                        <label>First-Time Homebuyer</label>
                                     </div>
                                 </div>
                                 <div class="ltn__testimoni-rating">
@@ -1351,12 +1382,10 @@
                                 </div>
                             </div>
                             <p>
-                                Precious ipsum dolor sit amet
-                                consectetur adipisicing elit, sed dos
-                                mod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad min
-                                veniam, quis nostrud Precious ips
-                                um dolor sit amet, consecte</p>
+                                My experience with this real estate agency was fantastic. As a first-time homebuyer, they
+                                guided me through the entire process, answered all my questions, and helped me find my dream
+                                home. I couldn't be happier!
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -1369,8 +1398,8 @@
                                         <img src="{{ asset('img/testimonial/4.jpg') }}" alt="#">
                                     </div>
                                     <div class="ltn__testimoni-name-designation">
-                                        <h5>James Carter</h5>
-                                        <label>Selling Agents</label>
+                                        <h5>David Thompson</h5>
+                                        <label>Real Estate Enthusiast</label>
                                     </div>
                                 </div>
                                 <div class="ltn__testimoni-rating">
@@ -1386,17 +1415,16 @@
                                 </div>
                             </div>
                             <p>
-                                Precious ipsum dolor sit amet
-                                consectetur adipisicing elit, sed dos
-                                mod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad min
-                                veniam, quis nostrud Precious ips
-                                um dolor sit amet, consecte</p>
+                                Working with this agency has been a pleasure. Their expertise in the real estate market and
+                                commitment to client satisfaction sets them apart. I highly recommend their services to
+                                anyone looking to buy or sell property.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <!--  -->
             </div>
+
         </div>
     </div>
     <!-- TESTIMONIAL AREA END -->
@@ -1596,7 +1624,7 @@
                             <p>We help you make the dream of new house a reality</p>
                         </div>
                         <div class="btn-wrapper">
-                            <a class="btn btn-effect-3 btn-white" href="contact.html">Explore Properties <i
+                            <a class="btn btn-effect-3 btn-white" href="#">Explore Properties <i
                                     class="icon-next"></i></a>
                         </div>
                     </div>

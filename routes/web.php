@@ -22,7 +22,7 @@ Route::get('/portfolio', [SiteController::class, 'portfolioPage']);
 Route::get('/faqs', [SiteController::class, 'faqPage']);
 Route::get('/our-locations', [SiteController::class, 'locationsPage']);
 Route::get('/properties', [SiteController::class, 'propertiesPage']);
-Route::get('/properties/{property}', [SiteController::class, 'propertyPage']);
+Route::get('/property/{property}', [SiteController::class, 'propertyDetailPage']);
 Route::get('/services', [SiteController::class, 'servicesPage']);
 Route::get('/services/{service}', [SiteController::class, 'servicePage']);
 Route::get('/blog', [SiteController::class, 'blogPage']);

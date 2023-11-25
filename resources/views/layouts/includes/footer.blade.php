@@ -10,8 +10,7 @@
                                 <img style="max-width: 90px" src="{{ asset('img/Vilma logo 3_044829.png') }}" alt="Logo">
                             </div>
                         </div>
-                        <p>Lorem Ipsum is simply dummy text of the and typesetting industry. Lorem Ipsum is
-                            dummy text of the printing.</p>
+                        <p style="text-align: justify !important">At VILMA LTD, our skilled real estate team is here to make buying, selling, or investing in property a smooth and rewarding experience for you.</p>
                         <div class="footer-address">
                             <ul>
                                 <li>
@@ -19,7 +18,8 @@
                                         <i class="icon-placeholder"></i>
                                     </div>
                                     <div class="footer-address-info">
-                                        <p>Somewhere, In the world, Earth</p>
+                                        <p>2nd Floor, Oakland Centre, Plot 2940, Aguiyi
+                                            Ironsi Street, Maitama, Abuja</p>
                                     </div>
                                 </li>
                                 <li>
@@ -27,7 +27,8 @@
                                         <i class="icon-call"></i>
                                     </div>
                                     <div class="footer-address-info">
-                                        <p><a href="tel:+0123-456789">+0123-456789</a></p>
+                                        <p><a href="tel:+234 915 227 9111">+234 915 227 9111</a></p>
+                                        <p><a href="tel:+234 705 254 15">+234 705 254 15</a></p>
                                     </div>
                                 </li>
                                 <li>
@@ -35,7 +36,7 @@
                                         <i class="icon-mail"></i>
                                     </div>
                                     <div class="footer-address-info">
-                                        <p><a href="mailto:example@example.com">example@example.com</a></p>
+                                        <p><a href="mailto:vilmaestates@gmail.com">vilmaestates@gmail.com</a></p>
                                     </div>
                                 </li>
                             </ul>

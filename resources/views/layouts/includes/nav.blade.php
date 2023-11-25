@@ -145,7 +145,7 @@
     <div class="ltn__utilize-menu-inner ltn__scrollbar">
         <div class="ltn__utilize-menu-head">
             <div class="site-logo">
-                <a href="index-2.html"><img style="max-width:90px;" src="{{ asset('img/Vilma logo 2_044054.png') }}" alt="Logo"></a>
+                <a href="{{ url('/') }}"><img style="max-width:90px;" src="{{ asset('img/Vilma logo 2_044054.png') }}" alt="Logo"></a>
             </div>
             <button class="ltn__utilize-close">×</button>
         </div>

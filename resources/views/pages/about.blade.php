@@ -10,7 +10,7 @@
                         <h1 class="page-title">About Us</h1>
                         <div class="ltn__breadcrumb-list">
                             <ul>
-                                <li><a href="index-2.html"><span class="ltn__secondary-color"><i
+                                <li><a href="{{ url('/') }}"><span class="ltn__secondary-color"><i
                                                 class="fas fa-home"></i></span> Home</a></li>
                                 <li>About Us</li>
                             </ul>
@@ -46,9 +46,13 @@
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-20">
                             <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">About Us</h6>
-                            <h1 class="section-title">The Leading Real Estate Company<span>.</span></h1>
-                            <p>Over 39,000 people work for us in more than 70 countries all over the
-                                This breadth of global coverage, combined with specialist services</p>
+                            <h1 class="section-title">Experience Real Estate Redefined: VILMA LTD - Your Partner in
+                                Property<span>.</span></h1>
+                            <p>Welcome to VILMA LTD - Your Trusted Real Estate Partner. We believe that finding your dream
+                                home or making sound real estate investments should be an exciting and seamless experience.
+                                With a passion for properties and a commitment to excellence, we have been serving the
+                                Nigerian community for two years, helping countless individuals and families turn their real
+                                estate dreams into reality. We are ready for YOU.</p>
                         </div>
                         <ul class="ltn__list-item-half clearfix">
                             <li>
@@ -69,182 +73,248 @@
                             </li>
                         </ul>
                         <div class="ltn__callout bg-overlay-theme-05  mt-30">
-                            <p>"Enimad minim veniam quis nostrud exercitation <br>
-                                llamco laboris. Lorem ipsum dolor sit amet" </p>
+                            <p>Your real estate journey begins here. Whether you have a specific property in mind or need
+                                expert advice, VILMA LTD is here to assist you every step of the way. Contact us today to
+                                schedule a consultation and let us turn your real estate dreams into reality. Thank you for
+                                considering us as your trusted real estate partner. We look forward to serving you!</p>
                         </div>
                         <div class="btn-wrapper animated">
-                            <a href="service.html" class="theme-btn-1 btn btn-effect-1">OUR SERVICES</a>
+                            <a href="{{ url('services') }}" class="theme-btn-1 btn btn-effect-1">OUR SERVICES</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+    <!-- ABOUT US AREA END -->
+
+    <!-- Our Vision Section -->
+    <div class="ltn__about-us-area pb-115">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 align-self-center">
+                    <div class="about-us-img-wrap ltn__img-shape-left  about-img-left">
+                        <img src="img/service/11.jpg" alt="Image">
+                    </div>
+                </div>
+                <div class="col-lg-7 align-self-center">
+                    <div class="about-us-info-wrap">
+                        <div class="section-title-area ltn__section-title-2--- mb-20">
+                            <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Our Vision</h6>
+                            <h1 class="section-title">Empowering Dreams, Building Legacies<span>.</span></h1>
+                            <p>We envision a future where every individual's dreams of homeownership, investment success,
+                                and financial stability can be realized. With unwavering dedication, we strive to create a
+                                lasting legacy by transforming communities, shaping skylines, and leaving a positive impact
+                                on the lives we touch.</p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- ABOUT US AREA END -->
 
-    <!-- FEATURE AREA START ( Feature - 6) -->
+    <!-- Our Mission Section -->
+    <div class="ltn__about-us-area pb-115">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7 align-self-center">
+                    <div class="about-us-info-wrap">
+                        <div class="section-title-area ltn__section-title-2--- mb-20">
+                            <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Our Mission</h6>
+                            <h1 class="section-title">Our mission is clear<span>.</span></h1>
+                            <div class="about-us-info-wrap-inner about-us-info-devide---">
+                                <p>To deliver exceptional real estate
+                                    experiences that exceed expectations and inspire trust.
+                                    We accomplish this by providing:</p>
+                            </div>
+                            <ul>
+                                <li>Personalized and innovative solutions tailored to our clients' needs.</li>
+                                <li>Meticulous market research and industry expertise.</li>
+                                <li>Passionate professionals who are committed to upholding the highest ethical standards,
+                                    transparency, and accountability in every transaction.</li>
+                                <li>Opportunities to build lasting relationships and embrace change.</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-5 align-self-center">
+                    <div class="about-us-img-wrap ltn__img-shape-left  about-img-left">
+                        <img src="img/service/11.jpg" alt="Image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Our Core Values Section -->
     <div class="ltn__feature-area section-bg-1 pt-120 pb-90 mb-120---">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">
                     <div class="section-title-area ltn__section-title-2--- text-center">
-                        <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Our Services</h6>
-                        <h1 class="section-title">Our Main Focus</h1>
+                        <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Our Core Values</h6>
+                        <h1 class="section-title">Guiding Principles That Define Us</h1>
                     </div>
                 </div>
             </div>
             <div class="row ltn__custom-gutter--- justify-content-center">
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
-                        <div class="ltn__feature-icon">
-                            <span><i class="flaticon-house"></i></span>
-                        </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Buy a home</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you
-                                will want to call home.</p>
-                            <a class="ltn__service-btn" href="service-details.html">Find A Home <i
-                                    class="flaticon-right-arrow"></i></a>
+                            <h3>Client-Centric</h3>
+                            <p>Our clients are at the heart of everything we do. We are dedicated to understanding their
+                                needs, providing exceptional service, and delivering results that exceed their expectations.
+                            </p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1 active">
-                        <div class="ltn__feature-icon">
-                            <span><i class="flaticon-house-3"></i></span>
-                        </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Rent a home</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you
-                                will want to call home.</p>
-                            <a class="ltn__service-btn" href="service-details.html">Find A Home <i
-                                    class="flaticon-right-arrow"></i></a>
+                            <h3>Integrity</h3>
+                            <p>We uphold the highest ethical standards in all our interactions. We are committed to honesty,
+                                transparency, and fairness in every transaction.</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 col-sm-6 col-12">
                     <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
-                        <div class="ltn__feature-icon">
-                            <span><i class="flaticon-deal-1"></i></span>
-                        </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Sell a home</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you
-                                will want to call home.</p>
-                            <a class="ltn__service-btn" href="service-details.html">Find A Home <i
-                                    class="flaticon-right-arrow"></i></a>
+                            <h3>Excellence</h3>
+                            <p>We strive for excellence in everything we do, aiming for the highest quality outcomes and
+                                continuous improvement.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                        <div class="ltn__feature-info">
+                            <h3>Teamwork</h3>
+                            <p>We foster a collaborative environment where teamwork, cooperation, and respect for one
+                                another are valued. Together, we achieve more.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                        <div class="ltn__feature-info">
+                            <h3>Innovation</h3>
+                            <p>We continuously seek innovative solutions and embrace technology to enhance the real estate
+                                experience for our clients and improve our efficiency.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-12">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                        <div class="ltn__feature-info">
+                            <h3>Empathy</h3>
+                            <p>We approach every situation with empathy, recognizing that buying or selling a property can
+                                be emotionally charged, and we aim to support our clients through every step of the process.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <!-- FEATURE AREA END -->
 
     <!-- TESTIMONIAL AREA START (testimonial-7) -->
-    <div class="ltn__testimonial-area section-bg-1--- bg-image-top pt-120 pb-70" data-bs-bg="img/bg/20.jpg">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12">
-                    <div class="section-title-area ltn__section-title-2--- text-center">
-                        <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Our Testimonial</h6>
-                        <h1 class="section-title">Clients Feedback</h1>
+<!-- Client Testimonial Section -->
+<div class="ltn__testimonial-area section-bg-1--- bg-image-top pt-120 pb-70" data-bs-bg="img/bg/20.jpg">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="section-title-area ltn__section-title-2--- text-center">
+                    <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">Our Testimonials</h6>
+                    <h1 class="section-title">Clients Feedback</h1>
+                </div>
+            </div>
+        </div>
+        <div class="row ltn__testimonial-slider-5-active slick-arrow-1">
+            <!-- Testimonial 1 -->
+            <div class="col-lg-4">
+                <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="ltn__testimoni-info">
+                        <p><i class="flaticon-left-quote-1"></i>
+                            "Working with VILMA LTD was an exceptional experience. They helped me find the perfect home that exceeded my expectations. The entire process was smooth and stress-free. I highly recommend their services."
+                        </p>
+                        <div class="ltn__testimoni-info-inner">
+                            <div class="ltn__testimoni-img">
+                                <img src="img/testimonial/1.jpg" alt="Jacob William">
+                            </div>
+                            <div class="ltn__testimoni-name-designation">
+                                <h5>Jacob William</h5>
+                                <label>Satisfied Home Buyer</label>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
-            <div class="row ltn__testimonial-slider-5-active slick-arrow-1">
-                <div class="col-lg-4">
-                    <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                        <div class="ltn__testimoni-info">
-                            <p><i class="flaticon-left-quote-1"></i>
-                                Precious ipsum dolor sit amet
-                                consectetur adipisicing elit, sed dos
-                                mod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad min
-                                veniam, quis nostrud Precious ips
-                                um dolor sit amet, consecte</p>
-                            <div class="ltn__testimoni-info-inner">
-                                <div class="ltn__testimoni-img">
-                                    <img src="img/testimonial/1.jpg" alt="#">
-                                </div>
-                                <div class="ltn__testimoni-name-designation">
-                                    <h5>Jacob William</h5>
-                                    <label>Selling Agents</label>
-                                </div>
+
+            <!-- Testimonial 2 -->
+            <div class="col-lg-4">
+                <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="ltn__testimoni-info">
+                        <p><i class="flaticon-left-quote-1"></i>
+                            "VILMA LTD made selling my property a breeze. Their team is professional, reliable, and goes the extra mile to ensure a successful transaction. I appreciate their integrity and commitment to excellence."
+                        </p>
+                        <div class="ltn__testimoni-info-inner">
+                            <div class="ltn__testimoni-img">
+                                <img src="img/testimonial/2.jpg" alt="Kelian Anderson">
+                            </div>
+                            <div class="ltn__testimoni-name-designation">
+                                <h5>Kelian Anderson</h5>
+                                <label>Satisfied Home Seller</label>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                        <div class="ltn__testimoni-info">
-                            <p><i class="flaticon-left-quote-1"></i>
-                                Precious ipsum dolor sit amet
-                                consectetur adipisicing elit, sed dos
-                                mod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad min
-                                veniam, quis nostrud Precious ips
-                                um dolor sit amet, consecte</p>
-                            <div class="ltn__testimoni-info-inner">
-                                <div class="ltn__testimoni-img">
-                                    <img src="img/testimonial/2.jpg" alt="#">
-                                </div>
-                                <div class="ltn__testimoni-name-designation">
-                                    <h5>Kelian Anderson</h5>
-                                    <label>Selling Agents</label>
-                                </div>
+            </div>
+
+            <!-- Testimonial 3 -->
+            <div class="col-lg-4">
+                <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="ltn__testimoni-info">
+                        <p><i class="flaticon-left-quote-1"></i>
+                            "I had a positive experience with VILMA LTD. Their attention to detail, market expertise, and personalized service were impressive. They truly care about their clients and their real estate goals."
+                        </p>
+                        <div class="ltn__testimoni-info-inner">
+                            <div class="ltn__testimoni-img">
+                                <img src="img/testimonial/3.jpg" alt="Adam Joseph">
+                            </div>
+                            <div class="ltn__testimoni-name-designation">
+                                <h5>Adam Joseph</h5>
+                                <label>Satisfied Home Buyer</label>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                        <div class="ltn__testimoni-info">
-                            <p><i class="flaticon-left-quote-1"></i>
-                                Precious ipsum dolor sit amet
-                                consectetur adipisicing elit, sed dos
-                                mod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad min
-                                veniam, quis nostrud Precious ips
-                                um dolor sit amet, consecte</p>
-                            <div class="ltn__testimoni-info-inner">
-                                <div class="ltn__testimoni-img">
-                                    <img src="img/testimonial/3.jpg" alt="#">
-                                </div>
-                                <div class="ltn__testimoni-name-designation">
-                                    <h5>Adam Joseph</h5>
-                                    <label>Selling Agents</label>
-                                </div>
+            </div>
+
+            <!-- Testimonial 4 -->
+            <div class="col-lg-4">
+                <div class="ltn__testimonial-item ltn__testimonial-item-7">
+                    <div class="ltn__testimoni-info">
+                        <p><i class="flaticon-left-quote-1"></i>
+                            "Choosing VILMA LTD for my real estate needs was a great decision. They provided expert guidance, maintained open communication, and made the entire process seamless. I highly recommend their services."
+                        </p>
+                        <div class="ltn__testimoni-info-inner">
+                            <div class="ltn__testimoni-img">
+                                <img src="img/testimonial/4.jpg" alt="James Carter">
+                            </div>
+                            <div class="ltn__testimoni-name-designation">
+                                <h5>James Carter</h5>
+                                <label>Satisfied Home Buyer</label>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="ltn__testimonial-item ltn__testimonial-item-7">
-                        <div class="ltn__testimoni-info">
-                            <p><i class="flaticon-left-quote-1"></i>
-                                Precious ipsum dolor sit amet
-                                consectetur adipisicing elit, sed dos
-                                mod tempor incididunt ut labore et
-                                dolore magna aliqua. Ut enim ad min
-                                veniam, quis nostrud Precious ips
-                                um dolor sit amet, consecte</p>
-                            <div class="ltn__testimoni-info-inner">
-                                <div class="ltn__testimoni-img">
-                                    <img src="img/testimonial/4.jpg" alt="#">
-                                </div>
-                                <div class="ltn__testimoni-name-designation">
-                                    <h5>James Carter</h5>
-                                    <label>Selling Agents</label>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--  -->
             </div>
         </div>
     </div>
+</div>
+
     <!-- TESTIMONIAL AREA END -->
 
     <!-- BLOG AREA START (blog-3) -->
@@ -437,7 +507,7 @@
                             <p>We can help you realize your dream of a new home</p>
                         </div>
                         <div class="btn-wrapper">
-                            <a class="btn btn-effect-3 btn-white" href="contact.html">Explore Properties <i
+                            <a class="btn btn-effect-3 btn-white" href="{{ url('properties') }}">Explore Properties <i
                                     class="icon-next"></i></a>
                         </div>
                     </div>

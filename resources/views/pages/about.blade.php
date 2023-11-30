@@ -46,9 +46,9 @@
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-20">
                             <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">About Us</h6>
-                            <h1 class="section-title">Experience Real Estate Redefined: VILMA LTD - Your Partner in
+                            <h1 class="section-title">Experience Real Estate Redefined: VILMA ESTATES LIMITED - Your Partner in
                                 Property<span>.</span></h1>
-                            <p>Welcome to VILMA LTD - Your Trusted Real Estate Partner. We believe that finding your dream
+                            <p>Welcome to VILMA ESTATES LIMITED - Your Trusted Real Estate Partner. We believe that finding your dream
                                 home or making sound real estate investments should be an exciting and seamless experience.
                                 With a passion for properties and a commitment to excellence, we have been serving the
                                 Nigerian community for two years, helping countless individuals and families turn their real
@@ -74,7 +74,7 @@
                         </ul>
                         <div class="ltn__callout bg-overlay-theme-05  mt-30">
                             <p>Your real estate journey begins here. Whether you have a specific property in mind or need
-                                expert advice, VILMA LTD is here to assist you every step of the way. Contact us today to
+                                expert advice, VILMA ESTATES LIMITED is here to assist you every step of the way. Contact us today to
                                 schedule a consultation and let us turn your real estate dreams into reality. Thank you for
                                 considering us as your trusted real estate partner. We look forward to serving you!</p>
                         </div>
@@ -237,7 +237,7 @@
                 <div class="ltn__testimonial-item ltn__testimonial-item-7">
                     <div class="ltn__testimoni-info">
                         <p><i class="flaticon-left-quote-1"></i>
-                            "Working with VILMA LTD was an exceptional experience. They helped me find the perfect home that exceeded my expectations. The entire process was smooth and stress-free. I highly recommend their services."
+                            "Working with VILMA ESTATES LIMITED was an exceptional experience. They helped me find the perfect home that exceeded my expectations. The entire process was smooth and stress-free. I highly recommend their services."
                         </p>
                         <div class="ltn__testimoni-info-inner">
                             <div class="ltn__testimoni-img">
@@ -257,7 +257,7 @@
                 <div class="ltn__testimonial-item ltn__testimonial-item-7">
                     <div class="ltn__testimoni-info">
                         <p><i class="flaticon-left-quote-1"></i>
-                            "VILMA LTD made selling my property a breeze. Their team is professional, reliable, and goes the extra mile to ensure a successful transaction. I appreciate their integrity and commitment to excellence."
+                            "VILMA ESTATES LIMITED made selling my property a breeze. Their team is professional, reliable, and goes the extra mile to ensure a successful transaction. I appreciate their integrity and commitment to excellence."
                         </p>
                         <div class="ltn__testimoni-info-inner">
                             <div class="ltn__testimoni-img">
@@ -277,7 +277,7 @@
                 <div class="ltn__testimonial-item ltn__testimonial-item-7">
                     <div class="ltn__testimoni-info">
                         <p><i class="flaticon-left-quote-1"></i>
-                            "I had a positive experience with VILMA LTD. Their attention to detail, market expertise, and personalized service were impressive. They truly care about their clients and their real estate goals."
+                            "I had a positive experience with VILMA ESTATES LIMITED. Their attention to detail, market expertise, and personalized service were impressive. They truly care about their clients and their real estate goals."
                         </p>
                         <div class="ltn__testimoni-info-inner">
                             <div class="ltn__testimoni-img">
@@ -297,7 +297,7 @@
                 <div class="ltn__testimonial-item ltn__testimonial-item-7">
                     <div class="ltn__testimoni-info">
                         <p><i class="flaticon-left-quote-1"></i>
-                            "Choosing VILMA LTD for my real estate needs was a great decision. They provided expert guidance, maintained open communication, and made the entire process seamless. I highly recommend their services."
+                            "Choosing VILMA ESTATES LIMITED for my real estate needs was a great decision. They provided expert guidance, maintained open communication, and made the entire process seamless. I highly recommend their services."
                         </p>
                         <div class="ltn__testimoni-info-inner">
                             <div class="ltn__testimoni-img">

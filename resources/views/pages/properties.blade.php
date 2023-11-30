@@ -86,7 +86,7 @@
                                                 <div
                                                     class="ltn__product-item ltn__product-item-4 ltn__product-item-5 text-center---">
                                                     <div class="product-img">
-                                                        <a href="product-details.html"><img src="img/product-3/1.jpg"
+                                                        <a href="product-details.html"><img src="{{ $item['imagePath'] }}" style="width: 100%; height:800px; object-fit:contain;"
                                                                 alt="#"></a>
                                                         <div class="real-estate-agent">
                                                             <div class="agent-img">

@@ -29,7 +29,7 @@
                                                 <br><span>Dream</span> Home
                                             </h1>
                                             <div class="slide-brief animated">
-                                                <p>Welcome to VILMA LTD - Your Trusted Real Estate Partner</p>
+                                                <p>Welcome to VILMA ESTATES LIMITED - Your Trusted Real Estate Partner</p>
                                             </div>
                                             <div class="btn-wrapper animated">
                                                 <a href="about.html" class="theme-btn-1 btn btn-effect-1">Make An
@@ -234,8 +234,8 @@
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-30">
                             <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">About Us</h6>
-                            <h1 class="section-title">Welcome to VILMA LTD</h1>
-                            <p>At VILMA LTD, we believe that finding your dream home or making
+                            <h1 class="section-title">Welcome to VILMA ESTATES LIMITED</h1>
+                            <p>At VILMA ESTATES LIMITED, we believe that finding your dream home or making
                                 sound real estate investments should be an exciting and seamless
                                 experience. With a passion for properties and a commitment to
                                 excellence, we have been serving the Nigerian community for two years,
@@ -282,7 +282,7 @@
                             <h6 class="section-subtitle section-subtitle-2--- ltn__secondary-color">Building Facilities
                             </h6>
                             <h1 class="section-title">Making Living Spaces More Beautiful</h1>
-                            <p>At VILMA LTD, we go beyond constructing buildings; we create living spaces that redefine
+                            <p>At VILMA ESTATES LIMITED, we go beyond constructing buildings; we create living spaces that redefine
                                 beauty and comfort. Over two years, we've passionately served the Nigerian community,
                                 turning real estate dreams into reality.</p>
                         </div>
@@ -343,7 +343,7 @@
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="service-details.html">Real Estate</a></h3>
-                            <p>Embark on your real estate journey with VILMA LTD. Explore our curated selection of homes for
+                            <p>Embark on your real estate journey with VILMA ESTATES LIMITED. Explore our curated selection of homes for
                                 sale and find your dream residence. Let us match you with a house that suits your lifestyle.
                             </p>
                             <a class="ltn__service-btn" href="service-details.html">Find A Home <i
@@ -358,7 +358,7 @@
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="service-details.html">Investment</a></h3>
-                            <p>Transform your financial future through strategic real estate investments. VILMA LTD offers
+                            <p>Transform your financial future through strategic real estate investments. VILMA ESTATES LIMITED offers
                                 opportunities to explore and invest in properties that promise long-term growth.</p>
                             <a class="ltn__service-btn" href="service-details.html">Explore Investments <i
                                     class="flaticon-right-arrow"></i></a>
@@ -372,7 +372,7 @@
                         </div>
                         <div class="ltn__feature-info">
                             <h3><a href="service-details.html">Innovation</a></h3>
-                            <p>Experience innovation in every aspect of real estate with VILMA LTD. Our selection of homes,
+                            <p>Experience innovation in every aspect of real estate with VILMA ESTATES LIMITED. Our selection of homes,
                                 backed by cutting-edge design and technology, redefines modern living. Explore innovation
                                 with us!</p>
                             <a class="ltn__service-btn" href="service-details.html">Discover Innovation <i

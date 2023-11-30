@@ -10,7 +10,7 @@
                                 <img style="max-width: 90px" src="{{ asset('img/Vilma logo 3_044829.png') }}" alt="Logo">
                             </div>
                         </div>
-                        <p style="text-align: justify !important">At VILMA LTD, our skilled real estate team is here to make buying, selling, or investing in property a smooth and rewarding experience for you.</p>
+                        <p style="text-align: justify !important">At VILMA ESTATES LIMITED, our skilled real estate team is here to make buying, selling, or investing in property a smooth and rewarding experience for you.</p>
                         <div class="footer-address">
                             <ul>
                                 <li>

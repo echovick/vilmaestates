@@ -167,7 +167,7 @@
                         <div class="need-support text-center mt-100">
                             <h2>Still need help? Reach out to support 24/7:</h2>
                             <div class="btn-wrapper mb-30">
-                                <a href="contact.html" class="theme-btn-1 btn">Contact Us</a>
+                                <a href="{{ url('contact') }}" class="theme-btn-1 btn">Contact Us</a>
                             </div>
                             <h3><i class="fas fa-phone"></i> +0123-456-789</h3>
                         </div>
@@ -435,7 +435,7 @@
                             <p>We can help you realize your dream of a new home</p>
                         </div>
                         <div class="btn-wrapper">
-                            <a class="btn btn-effect-3 btn-white" href="contact.html">Explore Properties <i
+                            <a class="btn btn-effect-3 btn-white" href="{{ url('properties') }}">Explore Properties <i
                                     class="icon-next"></i></a>
                         </div>
                     </div>

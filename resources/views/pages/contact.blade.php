@@ -32,8 +32,8 @@
                             <img src="img/icons/10.png" alt="Icon Image">
                         </div>
                         <h3>Email Address</h3>
-                        <p>info@webmail.com <br>
-                            jobs@webexample.com</p>
+                        <p>vilmaestates@gmail.com <br>
+                            contact@vilmaestates.com</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -42,7 +42,7 @@
                             <img src="img/icons/11.png" alt="Icon Image">
                         </div>
                         <h3>Phone Number</h3>
-                        <p>+0123-456789 <br> +987-6543210</p>
+                        <p>+234 915 227 9111 <br> +234 705 254 1533</p>
                     </div>
                 </div>
                 <div class="col-lg-4">
@@ -51,8 +51,8 @@
                             <img src="img/icons/12.png" alt="Icon Image">
                         </div>
                         <h3>Office Address</h3>
-                        <p>18/A, Somewhere on Earth <br>
-                            Abuja, Nigeria</p>
+                        <p>2nd Floor, Oakland Centre, Plot 2940, Aguiyi
+                            Ironsi Street, Maitama, Abuja</p>
                     </div>
                 </div>
             </div>
@@ -140,7 +140,7 @@
                             <p>We can help you realize your dream of a new home</p>
                         </div>
                         <div class="btn-wrapper">
-                            <a class="btn btn-effect-3 btn-white" href="contact.html">Explore Properties <i
+                            <a class="btn btn-effect-3 btn-white" href="{{ url('properties') }}">Explore Properties <i
                                     class="icon-next"></i></a>
                         </div>
                     </div>

@@ -88,12 +88,6 @@
                                                     <div class="product-img">
                                                         <a href="product-details.html"><img src="{{ $item['imagePath'] }}" style="width: 100%; height:800px; object-fit:contain;"
                                                                 alt="#"></a>
-                                                        <div class="real-estate-agent">
-                                                            <div class="agent-img">
-                                                                <a href="team-details.html"><img src="img/blog/author.jpg"
-                                                                        alt="#"></a>
-                                                            </div>
-                                                        </div>
                                                     </div>
                                                     <div class="product-info">
                                                         <div class="product-badge">
@@ -106,7 +100,7 @@
                                                             <ul>
                                                                 <li>
                                                                     <a href="{{ url('/our-locations') }}"><i
-                                                                            class="flaticon-pin"></i>Port Harcourt,
+                                                                            class="flaticon-pin"></i>{{ $item['location'] }},
                                                                         Nigeria</a>
                                                                 </li>
                                                             </ul>
@@ -943,7 +937,7 @@
                             <p>We can help you realize your dream of a new home</p>
                         </div>
                         <div class="btn-wrapper">
-                            <a class="btn btn-effect-3 btn-white" href="contact.html">Explore Properties <i
+                            <a class="btn btn-effect-3 btn-white" href="{{ url('properties') }}">Explore Properties <i
                                     class="icon-next"></i></a>
                         </div>
                     </div>

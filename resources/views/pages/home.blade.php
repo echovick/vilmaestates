@@ -248,7 +248,7 @@
                                 <span><i class="flaticon-house-4"></i></span>
                             </div>
                             <div class="ltn__feature-info">
-                                <h4><a href="service-details.html">The Perfect Residency</a></h4>
+                                <h4><a href="{{ url('properties') }}">The Perfect Residency</a></h4>
                                 <p>Discover the epitome of living with our meticulously designed and carefully crafted
                                     residences. We provide homes that are not just buildings but the perfect embodiment of
                                     comfort, luxury, and style.</p>
@@ -259,7 +259,7 @@
                                 <span><i class="flaticon-call-center-agent"></i></span>
                             </div>
                             <div class="ltn__feature-info">
-                                <h4><a href="service-details.html">Global Architect Experts</a></h4>
+                                <h4><a href="{{ url('properties') }}">Global Architect Experts</a></h4>
                                 <p>Trust in our global network of architect experts who bring innovation and expertise to
                                     every project. We collaborate with the finest minds to ensure your real estate ventures
                                     are backed by world-class architectural knowledge.</p>
@@ -342,11 +342,11 @@
                             <span><i class="flaticon-house"></i></span>
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Real Estate</a></h3>
+                            <h3><a href="{{ url('properties') }}">Real Estate</a></h3>
                             <p>Embark on your real estate journey with VILMA ESTATES LIMITED. Explore our curated selection of homes for
                                 sale and find your dream residence. Let us match you with a house that suits your lifestyle.
                             </p>
-                            <a class="ltn__service-btn" href="service-details.html">Find A Home <i
+                            <a class="ltn__service-btn" href="{{ url('properties') }}">Find A Home <i
                                     class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
@@ -357,10 +357,10 @@
                             <span><i class="flaticon-house-3"></i></span>
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Investment</a></h3>
+                            <h3><a href="{{ url('properties') }}">Investment</a></h3>
                             <p>Transform your financial future through strategic real estate investments. VILMA ESTATES LIMITED offers
                                 opportunities to explore and invest in properties that promise long-term growth.</p>
-                            <a class="ltn__service-btn" href="service-details.html">Explore Investments <i
+                            <a class="ltn__service-btn" href="{{ url('properties') }}">Explore Investments <i
                                     class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
@@ -371,11 +371,11 @@
                             <span><i class="flaticon-deal-1"></i></span>
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Innovation</a></h3>
+                            <h3><a href="{{ url('properties') }}">Innovation</a></h3>
                             <p>Experience innovation in every aspect of real estate with VILMA ESTATES LIMITED. Our selection of homes,
                                 backed by cutting-edge design and technology, redefines modern living. Explore innovation
                                 with us!</p>
-                            <a class="ltn__service-btn" href="service-details.html">Discover Innovation <i
+                            <a class="ltn__service-btn" href="{{ url('properties') }}">Discover Innovation <i
                                     class="flaticon-right-arrow"></i></a>
                         </div>
                     </div>
@@ -693,10 +693,11 @@
                 </div>
             </div>
             <div class="row ltn__search-by-place-slider-1-active slick-arrow-1">
+                @foreach ($estates as $item)
                 <div class="col-lg-4">
                     <div class="ltn__search-by-place-item">
                         <div class="search-by-place-img">
-                            <a href="product-details.html"><img src="{{ asset('img/product-3/1.jpg') }}"
+                            <a href="product-details.html"><img src="{{ asset($item['imagePath']) }}"
                                     alt="#"></a>
                             <div class="search-by-place-badge">
                                 <ul>
@@ -705,74 +706,15 @@
                             </div>
                         </div>
                         <div class="search-by-place-info">
-                            <h6><a href="locations.html">Life Camp</a></h6>
-                            <h4><a href="product-details.html">Abuja, Nigeria</a></h4>
+                            <h6><a href="{{ url('properties') }}">{{ $item['name'] }}</a></h6>
+                            <h4><a href="product-details.html">{{ $item['location'] }}, Nigeria</a></h4>
                             <div class="search-by-place-btn">
                                 <a href="product-details.html">View Property <i class="flaticon-right-arrow"></i></a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4">
-                    <div class="ltn__search-by-place-item">
-                        <div class="search-by-place-img">
-                            <a href="product-details.html"><img src="{{ asset('img/product-3/2.jpg') }}"
-                                    alt="#"></a>
-                            <div class="search-by-place-badge">
-                                <ul>
-                                    <li>5 Properties</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="search-by-place-info">
-                            <h6><a href="locations.html">Mbora</a></h6>
-                            <h4><a href="product-details.html">Abuja, Nigeria</a></h4>
-                            <div class="search-by-place-btn">
-                                <a href="product-details.html">View Property <i class="flaticon-right-arrow"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="ltn__search-by-place-item">
-                        <div class="search-by-place-img">
-                            <a href="product-details.html"><img src="{{ asset('img/product-3/3.jpg') }}"
-                                    alt="#"></a>
-                            <div class="search-by-place-badge">
-                                <ul>
-                                    <li>9 Properties</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="search-by-place-info">
-                            <h6><a href="locations.html">Apo</a></h6>
-                            <h4><a href="product-details.html">Abuja, Nigeria</a></h4>
-                            <div class="search-by-place-btn">
-                                <a href="product-details.html">View Property <i class="flaticon-right-arrow"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4">
-                    <div class="ltn__search-by-place-item">
-                        <div class="search-by-place-img">
-                            <a href="product-details.html"><img src="{{ asset('img/product-3/2.jpg') }}"
-                                    alt="#"></a>
-                            <div class="search-by-place-badge">
-                                <ul>
-                                    <li>5 Properties</li>
-                                </ul>
-                            </div>
-                        </div>
-                        <div class="search-by-place-info">
-                            <h6><a href="locations.html">Wassa</a></h6>
-                            <h4><a href="product-details.html">Abuja, Nigeria</a></h4>
-                            <div class="search-by-place-btn">
-                                <a href="product-details.html">View Property <i class="flaticon-right-arrow"></i></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                @endforeach
                 <!-- Additional locations can be added following the same pattern -->
             </div>
         </div>

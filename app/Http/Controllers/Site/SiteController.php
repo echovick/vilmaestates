@@ -16,7 +16,10 @@ class SiteController extends Controller
     }
     public function homePage()
     {
-        return view('pages.home');
+        $properties = $this->estateProperty->properties;
+        $estates = $this->estateProperty->estates;
+
+        return view('pages.home', compact('properties', 'estates'));
     }
 
     public function aboutPage()

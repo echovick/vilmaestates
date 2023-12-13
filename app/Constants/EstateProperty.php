@@ -109,33 +109,39 @@ class EstateProperty
     public $estates = [
         [
             'estateId' => '003-1',
-            'name' => 'Vilma Lydia Court',
-            'location' => '',
+            'name' => 'VILMA LYDIA COURT - Cedar',
+            'location' => 'Lugbe',
+            'imagePath' => 'img/estates/Cedar.jpg',
         ],
         [
             'estateId' => '003-2',
-            'name' => 'Vilma Bryckwood Estate',
-            'location' => '',
+            'name' => 'VILMA LYDIA COURT - Iris',
+            'location' => 'Lugbe',
+            'imagePath' => 'img/estates/Iris.jpg',
         ],
         [
             'estateId' => '001-2',
-            'name' => 'Vilma Germaine Estate',
-            'location' => '',
+            'name' => 'Vilma Kaura',
+            'location' => 'Lugbe',
+            'imagePath' => 'img/estates/kaura.jpg',
         ],
         [
             'estateId' => '002-2',
-            'name' => 'Vilma Dymphna Estate',
-            'location' => '',
+            'name' => 'VILMA LYDIA COURT',
+            'location' => 'Lugbe',
+            'imagePath' => 'img/estates/Leo.jpg',
         ],
         [
             'estateId' => '002-1',
             'name' => 'Vilma Nando Ville',
-            'location' => '',
+            'location' => 'Lifecamp',
+            'imagePath' => 'img/estates/Nando.jpg',
         ],
         [
             'estateId' => '001-1',
-            'name' => 'Vilma Idia Residence',
-            'location' => '',
+            'name' => 'Vilma Oak4',
+            'location' => 'Idu',
+            'imagePath' => 'img/estates/Oak4.jpg',
         ]
     ];
 

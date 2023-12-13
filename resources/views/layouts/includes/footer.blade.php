@@ -28,7 +28,7 @@
                                     </div>
                                     <div class="footer-address-info">
                                         <p><a href="tel:+234 915 227 9111">+234 915 227 9111</a></p>
-                                        <p><a href="tel:+234 705 254 15">+234 705 254 15</a></p>
+                                        <p><a href="tel:+234 705 254 15">+234 705 254 1533</a></p>
                                     </div>
                                 </li>
                                 <li>

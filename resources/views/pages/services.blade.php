@@ -35,19 +35,14 @@
                     <div class="about-us-info-wrap">
                         <div class="section-title-area ltn__section-title-2--- mb-20">
                             <h6 class="section-subtitle section-subtitle-2 ltn__secondary-color">About Us</h6>
-                            <h1 class="section-title">The Leading Real Estate
-                                Rental Marketplace<span>.</span></h1>
-                            <p>Over 39,000 people work for us in more than 70 countries all over the
-                                This breadth of global coverage, combined with specialist services</p>
+                            <h1 class="section-title">Experience Real Estate Redefined: VILMA ESTATES LIMITED - Your Partner in Property<span>.</span></h1>
+                            <p>Welcome to VILMA ESTATES LIMITED - Your Trusted Real Estate Partner. We believe that finding your dream home or making sound real estate investments should be an exciting and seamless experience. With a passion for properties and a commitment to excellence, we have been serving the Nigerian community for two years, helping countless individuals and families turn their real estate dreams into reality. We are ready for YOU.</p>
                         </div>
                         <div class="about-us-info-wrap-inner about-us-info-devide---">
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                                labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                                laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-                                voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+                            <p>Your real estate journey begins here. Whether you have a specific property in mind or need expert advice, VILMA ESTATES LIMITED is here to assist you every step of the way. Contact us today to schedule a consultation and let us turn your real estate dreams into reality. Thank you for considering us as your trusted real estate partner. We look forward to serving you!</p>
                         </div>
                         <div class="btn-wrapper animated">
-                            <a href="about.html" class="theme-btn-1 btn btn-effect-1 text-uppercase">About Us</a>
+                            <a href="{{ url('about') }}" class="theme-btn-1 btn btn-effect-1 text-uppercase">About Us</a>
                         </div>
                     </div>
                 </div>
@@ -67,92 +62,47 @@
                     </div>
                 </div>
             </div>
-            <div class="row  justify-content-center">
+            <div class="row justify-content-center">
+                <!-- Service 1 - Property Management -->
                 <div class="col-lg-4 col-sm-6 col-12">
-                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white box-shadow-1">
                         <div class="ltn__feature-icon">
                             <span><i class="flaticon-house"></i></span>
-                            <!-- <img src="img/icons/icon-img/21.png" alt="#"> -->
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Property Management</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you
-                                will want to call home.</p>
-                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
+                            <h3><a href="service-details.html">Real Estate</a></h3>
+                            <p>Embark on your real estate journey with VILMA ESTATES LIMITED. Explore our curated selection of homes for sale and find your dream residence. Let us match you with a house that suits your lifestyle.</p>
                         </div>
                     </div>
                 </div>
+
+                <!-- Service 2 - Mortgage Service -->
                 <div class="col-lg-4 col-sm-6 col-12">
-                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white box-shadow-1">
                         <div class="ltn__feature-icon">
                             <span><i class="flaticon-mortgage"></i></span>
-                            <!-- <img src="img/icons/icon-img/21.png" alt="#"> -->
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Mortgage Service</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you
-                                will want to call home.</p>
-                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
+                            <h3><a href="service-details.html">Investment</a></h3>
+                            <p>Transform your financial future through strategic real estate investments. VILMA ESTATES LIMITED offers opportunities to explore and invest in properties that promise long-term growth.</p>
                         </div>
                     </div>
                 </div>
+
+                <!-- Service 3 - Consulting Service -->
                 <div class="col-lg-4 col-sm-6 col-12">
-                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
+                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white box-shadow-1">
                         <div class="ltn__feature-icon">
                             <span><i class="flaticon-operator"></i></span>
-                            <!-- <img src="img/icons/icon-img/21.png" alt="#"> -->
                         </div>
                         <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Consulting Service</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you
-                                will want to call home.</p>
-                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 col-12">
-                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
-                        <div class="ltn__feature-icon">
-                            <span><i class="flaticon-house-1"></i></span>
-                            <!-- <img src="img/icons/icon-img/21.png" alt="#"> -->
-                        </div>
-                        <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Home Buying</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you
-                                will want to call home.</p>
-                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 col-12">
-                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
-                        <div class="ltn__feature-icon">
-                            <span><i class="flaticon-house-3"></i></span>
-                            <!-- <img src="img/icons/icon-img/21.png" alt="#"> -->
-                        </div>
-                        <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Home Selling</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you
-                                will want to call home.</p>
-                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-6 col-12">
-                    <div class="ltn__feature-item ltn__feature-item-6 text-center bg-white  box-shadow-1">
-                        <div class="ltn__feature-icon">
-                            <span><i class="flaticon-official-documents"></i></span>
-                            <!-- <img src="img/icons/icon-img/21.png" alt="#"> -->
-                        </div>
-                        <div class="ltn__feature-info">
-                            <h3><a href="service-details.html">Escrow Services</a></h3>
-                            <p>over 1 million+ homes for sale available on the website, we can match you with a house you
-                                will want to call home.</p>
-                            <!-- <a class="ltn__service-btn" href="service-details.html">Find A Home <i class="flaticon-right-arrow"></i></a> -->
+                            <h3><a href="service-details.html">Innovation</a></h3>
+                            <p>Experience innovation in every aspect of real estate with VILMA ESTATES LIMITED. Our selection of homes, backed by cutting-edge design and technology, redefines modern living. Explore innovation with us!</p>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
     </div>
     <!-- SERVICE AREA END -->
@@ -347,7 +297,7 @@
                             <p>We can help you realize your dream of a new home</p>
                         </div>
                         <div class="btn-wrapper">
-                            <a class="btn btn-effect-3 btn-white" href="contact.html">Explore Properties <i
+                            <a class="btn btn-effect-3 btn-white" href="{{ url('properties') }}">Explore Properties <i
                                     class="icon-next"></i></a>
                         </div>
                     </div>
